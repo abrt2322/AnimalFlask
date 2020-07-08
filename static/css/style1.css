@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body{
+    /*height: 100vh;*/
+    /*display: table;*/
+    background-color: aliceblue;
+}
+
+/*.contain{*/
+/*    display: table-cell;*/
+/*    vertical-align: middle;*/
+/*    text-align: center;*/
+/*}*/
+
+/*h1{*/
+/*    font-size: 20px;*/
+/*    font-weight: bold;*/
+/*}*/
+
+/*form{*/
+/*    width: 60vh;*/
+/*    height: 30px;*/
+/*}*/
+
+/*.first{*/
+/*    width: 40vh;*/
+/*}*/
+
+/*.second{*/
+/*    width: 20vh*/
+/*}*/
